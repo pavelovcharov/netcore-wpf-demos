@@ -22,6 +22,8 @@ Open a solution in Visual Studio.
 
 Before you build the solution, ensure that the 'Use previews of the .NET Core SDK' option is enabled (find this setting from the Visual Studio main menu: Tools->Options->Project and Solutions->.NET Core).
 
+> If you use Visual Studio 2019 (Update 16.1.0), you can find the 'Use previews of the .NET Core SDK' option in Tools->Options->Environment->Preview Features
+
 ## Integrate DevExpress WPF Controls into a .NET Core 3 application
 
 You need the DevExpress NuGet packages to create a .Net Core 3 project. Follow the steps below to add the packages to a solution:
