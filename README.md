@@ -20,9 +20,10 @@ Clone the repository to a working folder, navigate to './src'.
 
 Open a solution in Visual Studio. 
 
-Before you build the solution, ensure that the 'Use previews of the .NET Core SDK' option is enabled (find this setting from the Visual Studio main menu: Tools->Options->Project and Solutions->.NET Core).
-
-> If you use Visual Studio 2019 (Update 16.1+), you can find the 'Use previews of the .NET Core SDK' option in Tools->Options->Environment->Preview Features
+Before you build the solution, ensure that the 'Use previews of the .NET Core SDK' option is enabled. 
+You can find this setting from the Visual Studio main menu: 
+- In Visual Studio 2019 version 16.1+: Tools -> Options -> Environment -> Preview Features
+- In Visual Studio 2019 version 16.0: Tools -> Options -> Project and Solutions -> .NET Core
 
 ## Integrate DevExpress WPF Controls into a .NET Core 3 application
 
